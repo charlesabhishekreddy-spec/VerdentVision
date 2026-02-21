@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "plant-diagnosis-hero",
+      "description": "A close-up of a person's hands holding a healthy green leaf up to the light.",
+      "imageUrl": "https://picsum.photos/seed/plant-hero/1200/800",
+      "imageHint": "plant leaf"
+    },
+    {
+      "id": "plant-with-disease",
+      "description": "A tomato plant leaf showing signs of a common disease like blight or leaf spot.",
+      "imageUrl": "https://picsum.photos/seed/diseased-plant/600/400",
+      "imageHint": "diseased plant"
+    },
+    {
+      "id": "chat-avatar-user",
+      "description": "Avatar for user in chat.",
+      "imageUrl": "https://picsum.photos/seed/user-avatar/40/40",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "chat-avatar-bot",
+      "description": "Avatar for bot in chat.",
+      "imageUrl": "https://picsum.photos/seed/bot-avatar/40/40",
+      "imageHint": "robot avatar"
+    }
+  ]
+}
